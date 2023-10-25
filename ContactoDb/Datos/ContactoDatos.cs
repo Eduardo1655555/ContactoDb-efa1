@@ -83,6 +83,7 @@ namespace ContactoDb.Datos
             }
             return respuesta;
         }
+        /*hola*/
         public bool EditarContacto(ContactoModel model)
         {
             bool respuesta;
